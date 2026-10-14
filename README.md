@@ -10,5 +10,9 @@
 - 😄 Pronouns: I would rather be preffered as He/Him
 - ⚡ Fun fact: I only started to make my bio 3 months after making the account 🤪
 
+<div align="center">
+
 **Languages**
-<img src="https://skillicons.dev/icons?i=ts,js,python,java&theme=dark" alt="TypeScript, JavaScript, Python, Java"/>
+<img src="https://skillicons.dev/icons?i=ts,js,python,java&theme=dark" alt="TypeScript, JavaScript, Python, Java"/>\
+
+</div>
