@@ -13,6 +13,7 @@
 <div align="center">
 
 **Languages**
+
 <img src="https://skillicons.dev/icons?i=ts,js,python,java&theme=dark" alt="TypeScript, JavaScript, Python, Java"/>\
 
 </div>
