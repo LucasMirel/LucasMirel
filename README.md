@@ -1,6 +1,6 @@
-## Hello there!! 👋
-# My Name is Muhammad Aydin Ihsan 
-# I am a Software Engineering Student studying in SMK Telkom malang
+# Hello there!! 👋
+## My Name is Muhammad Aydin Ihsan 
+## I am a Software Engineering Student studying in SMK Telkom malang
 
 
 - 🔭 I’m currently working on my way to reach my dreams to become a software engineer worker in the future
